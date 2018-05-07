@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingRecyclerView">8dp</dimen>
+    <dimen name="cardPadding">8dp</dimen>
+    <dimen name="cardCornerRadius">8dp</dimen>
+    <dimen name="cardElevation">8dp</dimen>
+    <dimen name="sizeTitle">18sp</dimen>
+    <dimen name="sizePubDate">12sp</dimen>
+    <dimen name="sizeContent">14sp</dimen>
+    <dimen name="marginLinearInCard">8dp</dimen>
+    <dimen name="rowLayout_marginBottom">8dp</dimen>
+</resources>

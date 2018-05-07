@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSSreader</string>
+    <string name="txtTitle">Title</string>
+    <string name="txtPubDate">2018-04-30 06:00:00</string>
+    <string name="txtContent">Content</string>
+    <string name="titleRefresh">Refresh</string>
+</resources>
